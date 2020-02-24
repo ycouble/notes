@@ -4,6 +4,7 @@ https://github.com/awesomedata/awesome-public-datasets
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#entire-books-or-other-large-collections-of-notebooks-on-a-topic
 https://github.com/binhnguyennus/awesome-scalability
 https://mml-book.github.io/
+https://github.com/SpaceVim/SpaceVim
 
 
 # Courses
