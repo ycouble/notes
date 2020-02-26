@@ -5,6 +5,7 @@
 - https://github.com/binhnguyennus/awesome-scalability
 - https://mml-book.github.io/
 - https://github.com/SpaceVim/SpaceVim
+- https://github.com/academic/awesome-datascience
 
 
 # Courses
