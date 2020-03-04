@@ -6,6 +6,7 @@
 - https://mml-book.github.io/
 - https://github.com/SpaceVim/SpaceVim
 - https://github.com/academic/awesome-datascience
+- https://github.com/abhat222/Data-Science--Cheat-Sheet
 
 
 # Courses
