@@ -1,7 +1,7 @@
-Title:  Où Atterrir ? Comment s'orienter en politique
-Author: Bruno Latour
+#### Title:  Où Atterrir ? Comment s'orienter en politique
+#### Author: Bruno Latour
 
-Idées notables (:
+Idées notables (son ton, pas le mien):
 - Jusqu'à un certain moment (~1990'), le progrès alliait progrès social et progrès économique. 
 Libéralisme économique et libéralisme des moeurs. 
 Le placement politique pouvait être assez simple: les progressistes et les conservateurs. 
