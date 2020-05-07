@@ -8,7 +8,6 @@
 - https://github.com/academic/awesome-datascience
 - https://github.com/abhat222/Data-Science--Cheat-Sheet
 - https://github.com/lukasz-madon/awesome-remote-job
-- https://github.com/willmcgugan/rich
 
 
 # Courses
@@ -18,6 +17,7 @@
 
 # Software
 - https://github.com/soimort/you-get
+- https://github.com/willmcgugan/rich
 
 # Misc
 - https://theshiftproject.org/article/guide-mobilite-quotidienne-bas-carbone-rapport-shift/
