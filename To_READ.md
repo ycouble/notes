@@ -18,6 +18,7 @@
 # Software
 - https://github.com/soimort/you-get
 - https://github.com/willmcgugan/rich
+- https://optuna.org/
 
 # Misc
 - https://theshiftproject.org/article/guide-mobilite-quotidienne-bas-carbone-rapport-shift/
