@@ -8,6 +8,7 @@
 - https://github.com/academic/awesome-datascience
 - https://github.com/abhat222/Data-Science--Cheat-Sheet
 - https://github.com/lukasz-madon/awesome-remote-job
+- https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72
 
 
 # Courses
