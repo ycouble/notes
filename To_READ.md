@@ -10,6 +10,7 @@
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72
 - http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.2736
+- http://epistasislab.github.io/tpot/
 
 
 # Courses
