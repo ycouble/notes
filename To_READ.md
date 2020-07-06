@@ -23,7 +23,7 @@
 - https://github.com/soimort/you-get
 - https://github.com/willmcgugan/rich
 - https://optuna.org/
-- pandas-profiling, pandera, shap, 
+- pandas-profiling (df preview), pandera (df validation), shap (shapeley values), jax (parallelization + op. acceleration)
 
 # Misc
 - https://theshiftproject.org/article/guide-mobilite-quotidienne-bas-carbone-rapport-shift/
