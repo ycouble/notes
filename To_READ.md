@@ -12,6 +12,7 @@
 - http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.2736
 - http://epistasislab.github.io/tpot/
 - https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
+- http://jalammar.github.io/illustrated-word2vec/
 
 
 # Courses
