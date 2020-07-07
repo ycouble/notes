@@ -10,7 +10,6 @@
 - https://github.com/lukasz-madon/awesome-remote-job
 - https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72
 - http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.39.2736
-- http://epistasislab.github.io/tpot/
 - https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
 - http://jalammar.github.io/illustrated-word2vec/
 - https://towardsdatascience.com/visualization-of-word-embedding-vectors-using-gensim-and-pca-8f592a5d3354
@@ -26,7 +25,9 @@
 - https://github.com/soimort/you-get
 - https://github.com/willmcgugan/rich
 - https://optuna.org/
-- pandas-profiling (df preview), pandera (df validation), shap (shapeley values), jax (parallelization + op. acceleration)
+- pandas-profiling (df preview), pandera (df validation), shap (shapeley values), jax (parallelization + op. acceleration), pyviz, dabl (automl), tpot (automl)
+- rapids.ai
+
 
 # Misc
 - https://theshiftproject.org/article/guide-mobilite-quotidienne-bas-carbone-rapport-shift/
