@@ -13,6 +13,7 @@
 - http://epistasislab.github.io/tpot/
 - https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
 - http://jalammar.github.io/illustrated-word2vec/
+- https://towardsdatascience.com/visualization-of-word-embedding-vectors-using-gensim-and-pca-8f592a5d3354
 
 
 # Courses
