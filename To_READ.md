@@ -14,6 +14,8 @@
 - http://jalammar.github.io/illustrated-word2vec/
 - https://towardsdatascience.com/visualization-of-word-embedding-vectors-using-gensim-and-pca-8f592a5d3354
 
+# Data
+- https://data.fivethirtyeight.com/
 
 # Courses
 - https://www.fun-mooc.fr/courses/course-v1:agrocampusouest+40001+session06/about#
