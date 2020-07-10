@@ -33,6 +33,7 @@
 - pandas-profiling (df preview), pandera (df validation), shap (shapeley values), jax (parallelization + op. acceleration), pyviz, dabl (automl), tpot (automl)
 - rapids.ai
 - https://github.com/fbdesignpro/sweetviz
+- https://mmdetection.readthedocs.io/en/latest/
 
 
 # Misc
