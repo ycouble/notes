@@ -26,6 +26,7 @@
 - https://github.com/labuladong/fucking-algorithm/tree/english
 - https://github.com/adashofdata/nlp-in-python-tutorial
 - https://flask.palletsprojects.com/en/1.1.x/quickstart/
+- https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 
 # Software
 - https://github.com/soimort/you-get
