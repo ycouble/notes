@@ -19,6 +19,7 @@
 # Data
 - https://data.fivethirtyeight.com/
 - https://www.kaggle.com/datasets
+- https://ckan.org/
 
 # Courses
 - https://www.fun-mooc.fr/courses/course-v1:agrocampusouest+40001+session06/about#
