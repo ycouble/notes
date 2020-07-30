@@ -15,6 +15,7 @@
 - https://towardsdatascience.com/visualization-of-word-embedding-vectors-using-gensim-and-pca-8f592a5d3354
 - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 - https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
+- https://blog.jethro.dev/posts/introducing_org_roam/
 
 # Data
 - https://data.fivethirtyeight.com/
