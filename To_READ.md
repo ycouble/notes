@@ -43,6 +43,7 @@
 - rapids.ai
 - https://github.com/fbdesignpro/sweetviz
 - https://mmdetection.readthedocs.io/en/latest/
+- https://www.kubeflow.org/docs/pipelines/sdk/sdk-overview/
 
 
 # Misc
