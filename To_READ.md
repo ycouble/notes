@@ -1,4 +1,5 @@
 # Interesting reads
+- https://christophm.github.io/interpretable-ml-book/
 - https://github.com/hangtwenty/dive-into-machine-learning
 - https://github.com/awesomedata/awesome-public-datasets
 - https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#entire-books-or-other-large-collections-of-notebooks-on-a-topic
