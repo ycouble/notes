@@ -18,6 +18,8 @@
 - https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
 - https://blog.jethro.dev/posts/introducing_org_roam/ (Zettelkasten ??)
 - https://opensource.com/article/19/1/why-data-scientists-love-kubernetes
+- https://mlinproduction.com/batch-inference-vs-online-inference/
+- https://mlinproduction.com/intro-to-kubernetes/
 - 
 
 # Data
