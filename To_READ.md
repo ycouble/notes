@@ -16,6 +16,8 @@
 - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 - https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5
 - https://blog.jethro.dev/posts/introducing_org_roam/ (Zettelkasten ??)
+- https://opensource.com/article/19/1/why-data-scientists-love-kubernetes
+- 
 
 # Data
 - https://data.fivethirtyeight.com/
