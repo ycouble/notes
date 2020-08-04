@@ -50,3 +50,4 @@
 - https://theshiftproject.org/article/guide-mobilite-quotidienne-bas-carbone-rapport-shift/
 - http://www.openculture.com/freemoviesonline
 - https://www.leprogres.fr/culture-loisirs/2020/04/10/sept-perles-rares-du-7eme-art-a-(re)decouvrir-gratuitement
+- https://www.clubic.com/linux-os/actualite-7722-jouer-sur-linux-partie-2-ou-on-parle-de-lutris-et-gamehub-autour-d-un-bon-cafe-.html
