@@ -57,9 +57,13 @@
 - https://www.kaggle.com/c/google-quest-challenge/overview
 
 ## Store
-- https://en.wikipedia.org/wiki/OrientDB or https://orientdb.com/docs/3.0.x/misc/Overview.html
+- https://en.wikipedia.org/wiki/OrientDB or https://orientdb.com/docs/3.0.x/misc/Overview.html and https://www.udemy.com/course/orientdb-getting-started/
 - https://en.wikipedia.org/wiki/InterPlanetary_File_System
 - https://en.wikipedia.org/wiki/Distributed_hash_table
 - https://en.wikipedia.org/wiki/Apache_Hadoop
 - https://en.wikipedia.org/wiki/OpenStack
 - https://en.wikipedia.org/wiki/Kubernetes
+- https://github.com/dgraph-io/dgraph
+- https://notmuchmail.org/
+- https://en.wikipedia.org/wiki/Elasticsearch
+- https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/ipfs-dag/
