@@ -52,11 +52,12 @@
 - http://www.openculture.com/freemoviesonline
 - https://www.leprogres.fr/culture-loisirs/2020/04/10/sept-perles-rares-du-7eme-art-a-(re)decouvrir-gratuitement
 - https://www.clubic.com/linux-os/actualite-7722-jouer-sur-linux-partie-2-ou-on-parle-de-lutris-et-gamehub-autour-d-un-bon-cafe-.html
+- https://eeb.org/library/decoupling-debunked/
 
 ## Challenges
 - https://www.kaggle.com/c/google-quest-challenge/overview
 
-## Store
+## Store (may read)
 - https://en.wikipedia.org/wiki/OrientDB or https://orientdb.com/docs/3.0.x/misc/Overview.html and https://www.udemy.com/course/orientdb-getting-started/
 - https://en.wikipedia.org/wiki/InterPlanetary_File_System
 - https://en.wikipedia.org/wiki/Distributed_hash_table
