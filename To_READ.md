@@ -22,6 +22,8 @@
 - https://mlinproduction.com/intro-to-kubernetes/
 - https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a
 - https://www.kaggle.com/headsortails/back-to-predict-the-future-interactive-m5-eda
+- https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
+- https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
 
 # Data
 - https://data.fivethirtyeight.com/
