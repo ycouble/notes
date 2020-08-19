@@ -40,7 +40,7 @@
 - https://github.com/fastai/fastbook
 
 # Moocs
-- https://www.usfca.edu/data-institute/certificates/deep-learning-part-one
+- https://www.mltut.com/best-data-engineering-courses-online/
 
 # Software
 - https://github.com/soimort/you-get
