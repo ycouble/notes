@@ -23,6 +23,7 @@
 - https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a
 - https://www.kaggle.com/headsortails/back-to-predict-the-future-interactive-m5-eda
 - https://mattwestcott.co.uk/blog/redis-streams-vs-kafka
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 
 # Data
 - https://data.fivethirtyeight.com/
