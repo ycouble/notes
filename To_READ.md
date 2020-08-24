@@ -24,6 +24,7 @@
 - https://www.kaggle.com/headsortails/back-to-predict-the-future-interactive-m5-eda
 - https://mattwestcott.co.uk/blog/redis-streams-vs-kafka
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+- https://medium.com/@ModelOriented/fairmodels-lets-fight-with-biased-machine-learning-models-part-1-detection-6c2786e6c97c
 
 # Data
 - https://data.fivethirtyeight.com/
