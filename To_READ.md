@@ -26,6 +26,9 @@
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 - https://medium.com/@ModelOriented/fairmodels-lets-fight-with-biased-machine-learning-models-part-1-detection-6c2786e6c97c
 
+# Papers
+- https://scholar.smu.edu/datasciencereview/
+
 # Data
 - https://data.fivethirtyeight.com/
 - https://www.kaggle.com/datasets
