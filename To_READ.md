@@ -58,6 +58,7 @@
 - https://mmdetection.readthedocs.io/en/latest/
 - https://www.kubeflow.org/docs/pipelines/sdk/sdk-overview/
 - https://learn.hashicorp.com/nomad
+- https://www.orchest.io/
 
 
 # Misc
