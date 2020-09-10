@@ -70,6 +70,7 @@
 - https://www.clubic.com/linux-os/actualite-7722-jouer-sur-linux-partie-2-ou-on-parle-de-lutris-et-gamehub-autour-d-un-bon-cafe-.html
 - https://eeb.org/library/decoupling-debunked/
 - https://github.com/vinayak-mehta/present
+- https://github.com/collections/static-site-generators
 
 ## Challenges
 - https://www.kaggle.com/c/google-quest-challenge/overview
