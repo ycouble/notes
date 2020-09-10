@@ -44,6 +44,7 @@
 - https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp
 - https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab
 - https://github.com/fastai/fastbook
+- https://python-advanced.quantecon.org/
 
 # Moocs
 - https://www.mltut.com/best-data-engineering-courses-online/
