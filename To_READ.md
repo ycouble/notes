@@ -62,6 +62,12 @@
 - https://www.orchest.io/
 - https://nixos.org/
 
+# Optimization
+- https://pypi.org/project/python-constraint
+- https://github.com/qcappart/hybrid-cp-rl-solver
+- https://github.com/xoolive/facile
+- https://github.com/tias/cppy
+- https://pypi.org/project/minizinc/
 
 # Misc
 - https://theshiftproject.org/article/guide-mobilite-quotidienne-bas-carbone-rapport-shift/
