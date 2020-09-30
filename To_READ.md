@@ -25,6 +25,8 @@
 - https://mattwestcott.co.uk/blog/redis-streams-vs-kafka
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 - https://medium.com/@ModelOriented/fairmodels-lets-fight-with-biased-machine-learning-models-part-1-detection-6c2786e6c97c
+- https://devchecklists.com/python-api-checklist/
+
 
 # Papers
 - https://scholar.smu.edu/datasciencereview/
@@ -61,6 +63,7 @@
 - https://learn.hashicorp.com/nomad
 - https://www.orchest.io/
 - https://nixos.org/
+- https://doitlive.readthedocs.io/en/latest/
 
 # Optimization
 - https://pypi.org/project/python-constraint
@@ -92,3 +95,4 @@
 - https://notmuchmail.org/
 - https://en.wikipedia.org/wiki/Elasticsearch
 - https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/ipfs-dag/
+- https://github.com/coells/100days
