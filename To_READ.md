@@ -81,6 +81,7 @@
 - https://eeb.org/library/decoupling-debunked/
 - https://github.com/vinayak-mehta/present
 - https://github.com/collections/static-site-generators
+- https://opensource.zalando.com/tech-radar/
 
 ## Challenges
 - https://www.kaggle.com/c/google-quest-challenge/overview
