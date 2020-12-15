@@ -60,11 +60,20 @@ Individual explanations:
 ## Human friendly explanations
 For a model to be easily intepretable by humans the author argues that the explanations should follow several rules:
 
-- Explanations have to be selected: a good practive is to refrain from providing every possible bit of explainatory data and to limit the explanation to the 1-3 most important pieces of explanations.
+- Explanations have to be selected: a good practice is to refrain from providing every possible bit of explainatory data and to limit the explanation to the 1-3 most important pieces of explanations.
 - Explanations should be constrastive: usually humans prefer explanations that compare the instance with similar one that have a different ouput: "why is this instance so special that it doesn't output the same result as intuitively similar instances ?".
 - Explanations should be targeted according to the target of the explanation
 - Explanations should focus on abnormal data whenever possible: the most important piece of explanation is not always the most numerically significant but maybe the one which bears the highest abnormality.
 - Explanations should be as truthful as possible, i.e. it should remain applicable on other instances and not be invalidated
 - If no abnormality can be found, a general and probable explanation is also preferable to many pieces of unexceptional explanations.
 
+# Interpretable Models
+## Linear Regression
+Linear regressions are simple models, which force the output to be a linear combination of the inputs. This means that the model is additive and thus easily explainable. The weights **are** the explaination.
 
+Assumptions used to compute the confidence intervals:
+- **Linearity**: forced by linear regression
+- **Normality**: the probability of the target outcome given the feature should follow a normal distribution.
+- **Homoscedasticity**: (constant variance) The variance of the error terms is assumed to be constant, which is generally not verified (variance typically often increase for large values)
+- **Independence**: assumption that each instance in independent of any other, often not verified when you have several repeated measurements. If this is not the cas you need to have specific linear regression models such as mixed effect models of GEE (**//TODO**).
+- **Fixed features**:
