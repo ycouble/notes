@@ -93,6 +93,37 @@ Another important measurement is the R-squared, which tells how much of the tota
 - low adjusted R² --> not interpretable because it does not explain much of the variance.
 
 ### Feature importance
-Importance of a feature in LR can be measured by the absolute value of its T-statistic, which is the estimated weight scaled with its standard error. (standard error = standard deviation of the feature's distribution [wiki](https://en.wikipedia.org/wiki/Standard_error?oldid=906488399))
+Importance of a feature in LR can be measured by the absolute value of its T-statistic, which is the estimated weight scaled with its standard error. (standard error = standard deviation of the outcome in a outcome = intercept + feature_weight * feature_value function)
 
+--> possible to plot for each feature (like a facet plot) the `y = i + w*x` curve, with standard error shown, which highlights the distribution of the ground truths around the predictions.
+
+## Visual interpretation
+### Weight plots (https://christophm.github.io/interpretable-ml-book/limo.html#weight-plot)
+Weight plots show for each feature the weight estimate and the standard error.
+- Low SE represents a reliable feature
+- High weight estimate means a high influence in the outcome
+- Scaling makes the estimate weights more comparable
+
+### Effect plots
+Box plots for each feature. Only effects are represented. Effect = weight * value.
+- vertical line = effect of the median
+- box = 25% and 75% quantiles effect
+- horizontal line = span +- 1.5 InnerQuartileRange
+- dots = outliers
+
+## Explain individual predictions
+- Position the individual feature effects on an **Effect plot**: it enables to see how and why the outcome was decided (in particular, outlier effects are interesting)
+
+## Encoding Categorical Features
+Two encoding presented:
+- Treatment coding: N - 1 features for N categories, 1 hot encoding
+- Effect coding: Compare each category to the mean and use this value for encoding (only N-1 categories encoded)
+
+## Do Linear models create good explanations ?
+"linear models do not create the best explanations"
+- **Contrastive**, but the reference instance is a data point where all numerical are 0 and categorical are at their reference category (usually meaningless).
+If all features are mean centered, and cat features are effect coded, then the reference instance is the point where all features are at the mean.
+- **Selectivity** can be achieved by LR using less features or training sparse linear models, but by default, explainations are not selective.
+- **Truthfulness**: **yes** as long as the Linear Model is appropriate (aR² high).
+- Linearity makes the explanation mode **general** and **simple**
 
