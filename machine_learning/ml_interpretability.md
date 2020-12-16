@@ -93,6 +93,6 @@ Another important measurement is the R-squared, which tells how much of the tota
 - low adjusted R² --> not interpretable because it does not explain much of the variance.
 
 ### Feature importance
-Importance of a feature in LR can be measured by the absolute value of its T-statistic, which is the estimated weight scaled with its standard error. (standard error = standard deviation of the feature's distribution (wiki)[https://en.wikipedia.org/wiki/Standard_error?oldid=906488399])
+Importance of a feature in LR can be measured by the absolute value of its T-statistic, which is the estimated weight scaled with its standard error. (standard error = standard deviation of the feature's distribution [wiki](https://en.wikipedia.org/wiki/Standard_error?oldid=906488399))
 
 
