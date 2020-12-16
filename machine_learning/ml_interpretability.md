@@ -86,6 +86,6 @@ Interpretation depends on the type of feature:
 - intercept: if features are normalized and bin/cat 0 = reference --> outcome of all feature at their mean
 
 Another important measurement is the R-squared, which tells how much of the total variance of the target outcome is explained by the model. Higher R-squarred is better.
-$$$
+$$
 R^2 = 1 - \sum_{i=1}^n(y^{(i)} - \hat{y}^{(i)})^2
-$$$
+$$
