@@ -85,5 +85,14 @@ Interpretation depends on the type of feature:
 - binary/categorical: presence/absence/selection --> weight on outcome
 - intercept: if features are normalized and bin/cat 0 = reference --> outcome of all feature at their mean
 
-Another important measurement is the R-squared, which tells how much of the total variance of the target outcome is explained by the model. Higher R-squarred is better.
-$$R^2 = 1 - \sum_{i=1}^n(y^{(i)} - \hat{y}^{(i)})^2$$
+### R-squared
+Another important measurement is the R-squared, which tells how much of the total variance of the target outcome is explained by the model. 
+- Higher R-squarred is better. 
+- R² = 1 - square sum of errors / square sum of data variance.
+- R² increases with the number of features, so it is better to use the adjusted R² = 1 - (1 - R²) (n-1)/(n-p-1) where p is the number of features and n the number of instances
+- low adjusted R² --> not interpretable because it does not explain much of the variance.
+
+### Feature importance
+Importance of a feature in LR can be measured by the absolute value of its T-statistic, which is the estimated weight scaled with its standard error. (standard error = standard deviation of the feature's distribution (wiki)[https://en.wikipedia.org/wiki/Standard_error?oldid=906488399])
+
+
