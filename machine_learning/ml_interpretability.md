@@ -76,4 +76,16 @@ Assumptions used to compute the confidence intervals:
 - **Normality**: the probability of the target outcome given the feature should follow a normal distribution.
 - **Homoscedasticity**: (constant variance) The variance of the error terms is assumed to be constant, which is generally not verified (variance typically often increase for large values)
 - **Independence**: assumption that each instance in independent of any other, often not verified when you have several repeated measurements. If this is not the cas you need to have specific linear regression models such as mixed effect models of GEE (**//TODO**).
-- **Fixed features**:
+- **Fixed features**: inputs are considered exact and without measurement errors (always wrong, but it would be highly impractical otherwise)
+- **Absence of multicollinearity**: When two features are strongly correlated, it blurrs the importance of the two (weights could go either way, and the model would be as efficient with only one of them)
+
+## Interpretation
+Interpretation depends on the type of feature:
+- numerical: increase in feature --> increase * weight on outcome
+- binary/categorical: presence/absence/selection --> weight on outcome
+- intercept: if features are normalized and bin/cat 0 = reference --> outcome of all feature at their mean
+
+Another important measurement is the R-squared, which tells how much of the total variance of the target outcome is explained by the model. Higher R-squarred is better.
+$$$
+R^2 = 1 - \sum_{i=1}^n(y^{(i)} - \hat{y}^{(i)})^2
+$$$
