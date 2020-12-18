@@ -1,6 +1,5 @@
 
-# Interpretable Models
-## Linear Regression
+# Interpretable Models - Linear Regression
 Linear regressions are simple models, which force the output to be a linear combination of the inputs. This means that the model is additive and thus easily explainable. The weights **are** the explaination.
 
 Assumptions used to compute the confidence intervals:
@@ -11,47 +10,47 @@ Assumptions used to compute the confidence intervals:
 - **Fixed features**: inputs are considered exact and without measurement errors (always wrong, but it would be highly impractical otherwise)
 - **Absence of multicollinearity**: When two features are strongly correlated, it blurrs the importance of the two (weights could go either way, and the model would be as efficient with only one of them)
 
-## Interpretation
+# Interpretation
 Interpretation depends on the type of feature:
 - numerical: increase in feature --> increase * weight on outcome
 - binary/categorical: presence/absence/selection --> weight on outcome
 - intercept: if features are normalized and bin/cat 0 = reference --> outcome of all feature at their mean
 
-### R-squared
+## R-squared
 Another important measurement is the R-squared, which tells how much of the total variance of the target outcome is explained by the model. 
 - Higher R-squarred is better. 
 - R² = 1 - square sum of errors / square sum of data variance.
 - R² increases with the number of features, so it is better to use the adjusted R² = 1 - (1 - R²) (n-1)/(n-p-1) where p is the number of features and n the number of instances
 - low adjusted R² --> not interpretable because it does not explain much of the variance.
 
-### Feature importance
+## Feature importance
 Importance of a feature in LR can be measured by the absolute value of its T-statistic, which is the estimated weight scaled with its standard error. (standard error = standard deviation of the outcome in a outcome = intercept + feature_weight * feature_value function)
 
 --> possible to plot for each feature (like a facet plot) the `y = i + w*x` curve, with standard error shown, which highlights the distribution of the ground truths around the predictions.
 
-## Visual interpretation
-### Weight plots (https://christophm.github.io/interpretable-ml-book/limo.html#weight-plot)
+# Visual interpretation
+## Weight plots (https://christophm.github.io/interpretable-ml-book/limo.html#weight-plot)
 Weight plots show for each feature the weight estimate and the standard error.
 - Low SE represents a reliable feature
 - High weight estimate means a high influence in the outcome
 - Scaling makes the estimate weights more comparable
 
-### Effect plots
+## Effect plots
 Box plots for each feature. Only effects are represented. Effect = weight * value.
 - vertical line = effect of the median
 - box = 25% and 75% quantiles effect
 - horizontal line = span +- 1.5 InnerQuartileRange
 - dots = outliers
 
-## Explain individual predictions
+# Explain individual predictions
 - Position the individual feature effects on an **Effect plot**: it enables to see how and why the outcome was decided (in particular, outlier effects are interesting)
 
-## Encoding Categorical Features
+# Encoding Categorical Features
 Two encoding presented:
 - Treatment coding: N - 1 features for N categories, 1 hot encoding
 - Effect coding: Compare each category to the mean and use this value for encoding (only N-1 categories encoded)
 
-## Do Linear models create good explanations ?
+# Do Linear models create good explanations ?
 "linear models do not create the best explanations"
 - **Contrastive**, but the reference instance is a data point where all numerical are 0 and categorical are at their reference category (usually meaningless).
 If all features are mean centered, and cat features are effect coded, then the reference instance is the point where all features are at the mean.
